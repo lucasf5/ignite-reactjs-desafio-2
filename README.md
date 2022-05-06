@@ -5,8 +5,8 @@ Desafio 2 da trilha de React do Ignite da Rocketseat. 💜🚀
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/tavareshenrique/">
-      <img alt="Henrique Tavares" src="https://img.shields.io/badge/-Henrique Tavares-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/lucasfpnt/">
+      <img alt="Lucas Ferreira" src="https://img.shields.io/badge/-Lucas Ferreira-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2A2C39">
@@ -87,7 +87,7 @@ Acesse <http://localhost:8080> para ver o resultado.
   <tr>
     <td align="center">
       <a href="http://github.com/tavareshenrique/">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Henrique Tavares"/>
+        <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
           <b>Lucas Ferreira</b>
@@ -96,7 +96,7 @@ Acesse <http://localhost:8080> para ver o resultado.
        <br />
        <a href="https://www.linkedin.com/in/lucasfpnt/" title="Linkedin">@lucasfpnt</a>
        <br />
-       <a href="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" title="Code">💻</a>
+       <a href="https://www.linkedin.com/in/lucasfpnt/" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="http://github.com/lucasf5/">
