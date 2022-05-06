@@ -15,10 +15,13 @@ Desafio 2 da trilha de React do Ignite da Rocketseat. 💜🚀
 > Segundo desafio da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em listar filmes de uma API fake, utilizando o JSON Server.
 # :pushpin: Conteúdo
 
-- [Tecnologias](#computer-tecnologias)
-- [Executando](#construction_worker-executando)
-- [Autores](#computer-autores)
-- [Licença](#closed_book-licença)
+- [ignite-reactjs-desafio-2](#ignite-reactjs-desafio-2)
+- [:pushpin: Conteúdo](#pushpin-conteúdo)
+    - [Preview](#preview)
+- [:computer: Tecnologias](#computer-tecnologias)
+- [:construction_worker: Executando](#construction_worker-executando)
+- [:computer: Autores](#computer-autores)
+- [:closed_book: Licença](#closed_book-licença)
 
 ### Preview
 
@@ -51,7 +54,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$ git@github.com:tavareshenrique/ignite-reactjs-desafio-2.git
+$ git@github.com:lucasf5/ignite-reactjs-desafio-2.git
 ```
 
 ```bash
@@ -87,17 +90,17 @@ Acesse <http://localhost:8080> para ver o resultado.
         <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
-          <b>Henrique Tavares</b>
+          <b>Lucas Ferreira</b>
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
+       <a href="https://www.linkedin.com/in/lucasfpnt/" title="Linkedin">@lucasfpnt</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
-        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Henrique Tavares"/>
+      <a href="http://github.com/lucasf5/">
+        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Lucas Ferreira"/>
         <br />
         <sub>
           <b>Rocketseat</b>
@@ -106,7 +109,7 @@ Acesse <http://localhost:8080> para ver o resultado.
        <br />
        <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Creators">🚀</a>
+       <a href="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" title="Creators">🚀</a>
     </td>
   </tr>
 </table>
