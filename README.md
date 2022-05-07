@@ -86,7 +86,7 @@ Acesse <http://localhost:8080> para ver o resultado.
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
+      <a href="http://github.com/lucasf5/">
         <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
@@ -99,8 +99,8 @@ Acesse <http://localhost:8080> para ver o resultado.
        <a href="https://www.linkedin.com/in/lucasfpnt/" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/lucasf5/">
-        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Lucas Ferreira"/>
+      <a href="https://github.com/Rocketseat">
+        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Rocketseat"/>
         <br />
         <sub>
           <b>Rocketseat</b>
